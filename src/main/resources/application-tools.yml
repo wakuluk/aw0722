@@ -1,0 +1,38 @@
+tools:
+  map:
+    CHNS:
+      toolCode: "CHNS"
+      brand: "Stihl"
+      toolType:
+        type: ${types.tools.chainsaw.type}
+        dailyCharge: ${types.tools.chainsaw.dailyCharge}
+        weekdayCharge: ${types.tools.chainsaw.weekdayCharge}
+        weekendCharge: ${types.tools.chainsaw.weekendCharge}
+        holidayCharge: ${types.tools.chainsaw.holidayCharge}
+    LADW:
+      toolCode: "LADW"
+      brand: "Werner"
+      toolType:
+        type: ${types.tools.ladder.type}
+        dailyCharge: ${types.tools.ladder.dailyCharge}
+        weekdayCharge: ${types.tools.ladder.weekdayCharge}
+        weekendCharge: ${types.tools.ladder.weekendCharge}
+        holidayCharge: ${types.tools.ladder.holidayCharge}
+    JAKD:
+      toolCode: "JAKD"
+      brand: "DeWalt"
+      toolType:
+        type: ${types.tools.jackhammer.type}
+        dailyCharge: ${types.tools.jackhammer.dailyCharge}
+        weekdayCharge: ${types.tools.jackhammer.weekdayCharge}
+        weekendCharge: ${types.tools.jackhammer.weekendCharge}
+        holidayCharge: ${types.tools.jackhammer.holidayCharge}
+    JAKR:
+      toolCode: "JAKR"
+      brand: "Ridgid"
+      toolType:
+        type: ${types.tools.jackhammer.type}
+        dailyCharge: ${types.tools.jackhammer.dailyCharge}
+        weekdayCharge: ${types.tools.jackhammer.weekdayCharge}
+        weekendCharge: ${types.tools.jackhammer.weekendCharge}
+        holidayCharge: ${types.tools.jackhammer.holidayCharge}

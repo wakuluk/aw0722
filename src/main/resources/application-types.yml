@@ -1,0 +1,20 @@
+types:
+  tools:
+    ladder:
+      type: "Ladder"
+      dailyCharge: 1.99
+      weekdayCharge: true
+      weekendCharge: true
+      holidayCharge: false
+    chainsaw:
+      type: "Chainsaw"
+      dailyCharge: 1.49
+      weekdayCharge: true
+      weekendCharge: false
+      holidayCharge: true
+    jackhammer:
+      type: "Jackhammer"
+      dailyCharge: 2.99
+      weekdayCharge: true
+      weekendCharge: false
+      holidayCharge: false
