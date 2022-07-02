@@ -7,7 +7,7 @@ This is a Java Spring Boot App designed for the Programming Demonstration.
 You can run the app by pulling the code and running:
 
 ```
-mvn spring-boot: run
+mvn spring-boot:run
 ```
 
 ### curl commands for provided test cases
